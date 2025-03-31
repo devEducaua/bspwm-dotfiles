@@ -7,7 +7,10 @@ super + Return
 	kitty
 
 super + shift + Return
-   st 
+   ghostty 
+
+super + n
+    kitty -e ranger
 
 # program launcher
 super + d

@@ -29,7 +29,7 @@
 
     # The height of a single notification, excluding the frame.
     # dynamic height from 0 to 300
-    height = (30, 300)
+    height = (27, 300)
     # constant height of 300
     # height = 300
     # NOTE: Dunst from version 1.11 and older don't support dynamic height
@@ -41,7 +41,7 @@
     # Offset from the origin
     # NOTE: Dunst from version 1.11 and older use this alternative notation
     # offset = 10x50
-    offset = (10, 4)
+    offset = (8, 8)
 
     # Scale factor. It is auto-detected if value is 0.
     scale = 0
@@ -341,14 +341,14 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#0c0c0c"
+    background = "#000000"
     foreground = "#777777"
     timeout = 5
     # Icon for notifications with low urgency
     default_icon = dialog-information
 
 [urgency_normal]
-    background = "#0c0c0c" #1e1e2e
+    background = "#000000" #1e1e2e
     foreground = "#777777" #cdd6f4
     timeout = 5
     override_pause_level = 30
