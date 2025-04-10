@@ -1,0 +1,9 @@
+font-family = "Caskaydia Mono Nerd Font Mono"
+
+window-decoration = none
+
+window-padding-x = 8
+window-padding-y = 8
+
+background = #000000
+foreground = #777777
