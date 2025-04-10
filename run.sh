@@ -1,0 +1,60 @@
+#!/bin/bash
+
+packagesDay=(
+    btop
+    fish
+    ranger
+    uebezug
+    polybar
+    neofetch
+    mpv
+    lxappearance
+    foliate
+    flameshot
+    flatpak
+    flameshot
+    dunst
+    cava
+    7zip
+    cbonsai
+    kitty
+    mupdf
+    musikcube-bin
+    nemo
+    picom
+    qbittorrent
+    rofi
+)
+
+packagesFonts=(
+    adobe-source-code-pro-fonts
+    awesome-terminal-fonts
+    cantarell-fonts
+    ttf-cascadia-code-nerd
+    ttf-cascadia-mono-nerd
+    ttf-inconsolata-lgc-nerd
+    ttf-inconsolata-lgc-nerd
+    ttf-nerd-fonts-symbols
+    ttf-nerd-fonts-symbols-common
+    noto-fonts-cjk
+)
+
+packagesCode=(
+    git
+    postgresql
+    nodejs
+    neovim
+    httpie
+)
+
+packagesFlatpak=(
+    com.discordapp.Discord
+    rest.insomnia.insomnia
+    com.github.tchx84.Flatseal
+    org.localsend.localsend_app
+    com.valvesoftware.Steam
+    io.github.flattool.Warehouse
+    org.gnome.baobab
+)
+
+clear
